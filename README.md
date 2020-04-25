@@ -1,2 +1,4 @@
-# ICLR 2020 Submission - BERT Wears GloVes: Distilling Static Embeddings from Pretrained Contextual Representations 
-Distilling static word embeddings from pretrained contextual representations (e.g. BERT)
+# Contextual2Static
+All materials that accompany/are needed to reproduce ACL 2020 paper - Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings  
+  
+Questions should be directed to nlprishi@stanford.edu or rishibommasani@gmail.com
